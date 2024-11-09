@@ -1,5 +1,3 @@
-Here's a refined version of your `README.md` code with minor formatting adjustments for clarity and consistency:
-
 ```markdown
 # Multimedia-Content-Summarizer
 
