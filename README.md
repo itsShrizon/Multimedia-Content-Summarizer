@@ -1,4 +1,4 @@
-```markdown
+
 # Multimedia-Content-Summarizer
 
 ## Overview
